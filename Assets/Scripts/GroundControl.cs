@@ -10,7 +10,7 @@ public class GroundControl : MonoBehaviour {
 	
 	// Update is called once per frame
 	//Material texture offset rate
-float speed = .5f;
+float speed = 0.25f;
  
 //Offset the material texture at a constant rate
 void Update () {
